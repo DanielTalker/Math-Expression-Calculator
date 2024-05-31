@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
