@@ -24,14 +24,6 @@ To get started with the Math Expression Calculator, follow these steps:
    cd Math-Expression-Calculator
    ```
 
-## Usage
-
-To use the calculator, run the `Calculator.java` file in your Java development environment or compile and run the application via the command line:
-
-```bash
-javac Calculator.java
-java Calculator
-```
 
 ## How It Works
 
